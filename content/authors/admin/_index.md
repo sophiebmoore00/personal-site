@@ -6,7 +6,7 @@ title: Sophie Moore
 superuser: true
 
 # Role/position/tagline
-role: student at California Polytechnic State University
+role: Student at California Polytechnic State University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,11 +14,11 @@ organizations:
   url: https://www.calpoly.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate Quantitative Political Science student at Cal Poly SLO
+bio: Undergraduate quantitative political science student at Cal Poly SLO
 
 # Interests to show in About widget
 interests:
-- Political Science
+- Political Science research
 - Quantitative Methods 
 - R stats
 
