@@ -14,7 +14,7 @@ organizations:
   url: https://www.calpoly.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate quantitative political science student at Cal Poly SLO
+bio: Quantitative political science student at Cal Poly SLO
 
 # Interests to show in About widget
 interests:
